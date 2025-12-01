@@ -69,7 +69,7 @@ dashboard-power-bi-petshop/
 
 **Power BI Desktop: construindo meu primeiro dashboard** - Alura
 - Instrutor: Daniel Siqueira
-- Carga horária: [informar se disponível]
+- Carga horária: 2 horas
 - Data de conclusão: Novembro/2025
 
 ## 💡 Principais Insights
